@@ -1,3 +1,5 @@
+package ejercicio313;
+
 public class Empleado {
     private String nombre;
     private String apellido;

@@ -2,3 +2,6 @@
 build/
 .idea/
 .vscode/
+target/
+*.iml
+out/

@@ -1,3 +1,6 @@
+package ejercicio317;
+
+import ejercicio316.FrecuenciasCardiacas;
 public class PerfilMedico {
     private String nombre;
     private String apellido;

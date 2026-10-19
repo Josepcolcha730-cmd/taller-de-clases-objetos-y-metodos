@@ -1,3 +1,6 @@
+package ejercicio312;
+
+import util.Entrada;
 import java.util.Scanner;
 
 public class PruebaFactura {

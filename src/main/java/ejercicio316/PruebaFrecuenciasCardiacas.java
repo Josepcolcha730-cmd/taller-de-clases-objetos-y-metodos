@@ -1,3 +1,6 @@
+package ejercicio316;
+
+import util.Entrada;
 import javax.swing.JOptionPane;
 
 public class PruebaFrecuenciasCardiacas {

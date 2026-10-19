@@ -1,3 +1,6 @@
+package ejercicio317;
+
+import util.Entrada;
 import javax.swing.JOptionPane;
 
 public class PruebaPerfilMedico {

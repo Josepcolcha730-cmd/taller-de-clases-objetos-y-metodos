@@ -1,3 +1,6 @@
+package ejercicio314;
+
+import util.Entrada;
 import javax.swing.JOptionPane;
 
 public class PruebaFecha {

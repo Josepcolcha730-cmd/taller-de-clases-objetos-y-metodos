@@ -1,3 +1,6 @@
+package ejercicio313;
+
+import util.Entrada;
 import java.util.Scanner;
 
 public class PruebaEmpleado {

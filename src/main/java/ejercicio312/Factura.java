@@ -1,3 +1,5 @@
+package ejercicio312;
+
 public class Factura {
     private String numeroPieza;
     private String descripcion;
