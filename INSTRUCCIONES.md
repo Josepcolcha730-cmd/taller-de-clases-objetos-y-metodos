@@ -44,9 +44,15 @@ java -cp build ejercicio316.PruebaFrecuenciasCardiacas
 java -cp build ejercicio317.PruebaPerfilMedico
 ```
 
-Los tres últimos requieren un escritorio gráfico. Las pruebas automáticas verifican
-sus modelos y su carga; la interacción manual de los diálogos debe comprobarse al
-ejecutarlos. Fecha asume valores de calendario correctos, como permite el enunciado.
+Los tres últimos requieren un escritorio gráfico. Para comprobar automáticamente
+también las ventanas (se abrirán y cerrarán durante las pruebas), ejecuta:
+
+```powershell
+java -cp build pruebas.VerificacionVentanas
+```
+
+Se prueban los tres programas con datos válidos e inválidos y su cancelación.
+Fecha asume valores de calendario correctos, como permite el enunciado.
 Los datos de ejemplo son ficticios y las fórmulas de salud son las del ejercicio académico.
 
 Si IntelliJ conserva clases antiguas, elimina del proyecto la copia anterior de las
